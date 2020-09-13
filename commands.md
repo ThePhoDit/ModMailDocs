@@ -28,6 +28,15 @@ The prefix "/" is used in the examples. Please use yours.
 **Thread Only:** true  
 **Permission Level:** HELPER
 
+### Rename a channel
+
+```text
+/rename {new name}
+```
+
+**Thread Only:** true  
+**Permission Level:** MANAGER
+
 ### Manage snippets \(predefined responses\)
 
 ```text
