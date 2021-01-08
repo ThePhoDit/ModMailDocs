@@ -17,3 +17,13 @@ Find out the installation guide in the next page and the commands list afterward
 3. Staff can view it and reply.
 4. When a conversation is finished, the thread can be closed.
 
+![User View](https://i.phodit.xyz/FIEVgvUwH)
+
+![Staff View](https://i.phodit.xyz/ddaZoKr1g)
+
+![Staff View](https://i.phodit.xyz/o22bV7ujb)
+
+![Fancy Logs Generated](https://i.phodit.xyz/w0Mjf3PHu)
+
+
+
