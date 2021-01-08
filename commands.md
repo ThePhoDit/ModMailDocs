@@ -37,6 +37,15 @@ The prefix "/" is used in the examples. Please use yours.
 **Thread Only:** true  
 **Permission Level:** MANAGER
 
+### Get the user ID
+
+```text
+/id
+```
+
+**Thread Only:** true  
+**Permission Level:** HELPER
+
 ### Manage snippets \(predefined responses\)
 
 ```text
