@@ -6,6 +6,10 @@ description: >-
 
 # ModMail
 
+{% hint style="danger" %}
+This version is discontinued. Please, visit [https://modmail.phodit.xyz](https://modmail.phodit.xyz) for the new installation guide.
+{% endhint %}
+
 This self-hosted bot enables private communication between users and the server's staff.
 
 Find out the installation guide in the next page and the commands list afterward.
